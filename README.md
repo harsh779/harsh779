@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=160&section=header&text=Harsh%20Khandelwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analytics%20%26%20Systems%20Consultant%20%E2%80%94%20I%20build%20things%20that%20work%20in%20production&descAlignY=57&descSize=13&descColor=aaaaaa" />
-</div>
 
-<br/>
+# Harsh Khandelwal
+
+### Analytics & Systems Consultant — I build things that work in production
+
+</div>
 
 <div align="center">
 
@@ -13,11 +15,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-Principal Consultant at **[Premium Blend Consulting](https://premiumblend.in)** — I've built analytics and data practices for companies including Netflix, P&G, and PepsiCo. On the side, I ship production tools that solve problems I couldn't find good solutions for.
+Principal Consultant at **[Premium Blend Consulting](https://premiumblend.in)** with 10+ years across FMCG, CPG, media, and SaaS — building analytics practices and data systems for enterprise clients. On the side, I ship production tools that solve problems I couldn't find good solutions for.
 
 Currently building **ContextOS** — a local memory layer for AI-assisted development workflows.
 
@@ -53,9 +53,3 @@ Available for **consulting engagements** in analytics strategy, AI-enabled workf
 > I work with FMCG, CPG, media, and SaaS companies. Engagements range from sprint-scope diagnostics to embedded practice builds.
 
 📩 [LinkedIn](https://www.linkedin.com/in/harshk779/) · [harsh779@gmail.com](mailto:harsh779@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=100&section=footer" />
-</div>
