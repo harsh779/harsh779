@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,40,10,0&height=180&section=header&text=Harsh%20Khandelwal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analytics%20%26%20Systems%20Consultant%20%E2%80%94%20I%20build%20things%20that%20work%20in%20production&descAlignY=57&descSize=13&descAlign=50&descColor=aaaaaa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,40,10,0&height=160&section=header&text=Harsh%20Khandelwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analytics%20%26%20Systems%20Consultant%20%E2%80%94%20I%20build%20things%20that%20work%20in%20production&descAlignY=57&descSize=13&descColor=aaaaaa" />
 </div>
 
 <br/>
@@ -17,31 +17,43 @@
 
 ---
 
-I consult with companies like **Netflix, P&G, and PepsiCo** on analytics strategy and data systems — and I ship production tools on the side that solve problems I couldn't find good solutions for.
+Principal Consultant at **[Premium Blend Consulting](https://premiumblend.in)** — I've built analytics and data practices for companies including Netflix, P&G, and PepsiCo. On the side, I ship production tools that solve problems I couldn't find good solutions for.
 
-Principal Consultant at [Premium Blend Consulting](https://premiumblend.in), where I built the 0→1 insights & strategy practice from scratch. 10+ years across FMCG, CPG, media, and SaaS.
-
----
-
-## What I've Shipped
-
-| Project | What It Does | Stack | |
-|---|---|---|---|
-| [**F1 Insights API**](https://github.com/harsh779/f1-live-api) | Live F1 race telemetry feed via SignalR WebSocket — zero third-party data dependencies, direct from source | C# · .NET · SignalR | 🟢 Live |
-| [**F1 Predictor League**](https://github.com/harsh779/f1-prediction-game) | Real-time prediction game using live qualifying & race data, running in an active league | Python · REST APIs | 🟢 Live |
-| [**Perception Intelligence**](https://app--youtube-intelligence--qc9w4mr468wb.code.run/#how) | Brand perception synthesis engine — YouTube creator reviews → structured B2B insight reports | Python · NLP · Northflank | 🟢 Live |
+Currently building **ContextOS** — a local memory layer for AI-assisted development workflows.
 
 ---
 
-## Currently
+## 🚀 Featured Builds
 
-Designing **PB Desk** — a client-facing portal for structured request intake, scoping, and delivery tracking at Premium Blend.
+#### AI workflow systems
 
-Commercializing **Perception Intelligence** as a self-serve B2B product: Done-For-You → SaaS → White-Label tiers.
+[![ContextOS](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=contextos-claude-memory&theme=github_dark)](https://github.com/harsh779/contextos-claude-memory)
+
+> Windows-first local memory layer for Claude Code. Captures project context, decisions, next actions, and restart packs so long-running AI-assisted builds can resume with less repeated setup.
 
 ---
 
-## Stack
+#### Live data and sports analytics
+
+[![F1 Predictor League](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=f1-predictor-league&theme=github_dark)](https://github.com/harsh779/f1-predictor-league)
+
+> Full-stack F1 prediction game with login, prediction lockouts, live timing integration, scoring logic, standings, admin tools, Discord notifications, and PWA support.
+
+[![F1 Live API](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=f1-live-api&theme=github_dark)](https://github.com/harsh779/f1-live-api)
+
+> Real-time F1 timing API serving telemetry, race control, weather, pit strategy, team radio, results, standings, and historical session data via SignalR WebSocket — zero third-party data dependencies.
+
+---
+
+#### Career and productivity tools
+
+[![Resume Customiser](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=resume-customiser&theme=github_dark)](https://github.com/harsh779/resume-customiser)
+
+> Local-first career tool for JD analysis, relevance scoring, and ATS-safe resume outputs — without inventing experience.
+
+---
+
+## 🧩 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
