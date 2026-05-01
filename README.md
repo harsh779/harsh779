@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshk779/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-portfolio-bay.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh779@gmail.com)
-[![Perception Intelligence](https://img.shields.io/badge/Perception_Intelligence-FF6B00?style=for-the-badge&logoColor=white)](https://app--youtube-intelligence--qc9w4mr468wb.code.run/#how)
 
 </div>
 
@@ -25,12 +24,13 @@ Currently building **ContextOS** — a local memory layer for AI-assisted develo
 
 ## 🚀 Featured Builds
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**ContextOS**](https://github.com/harsh779/contextos-claude-memory) | Windows-first local memory layer for Claude Code — captures project context, decisions, next actions, and restart packs so long-running AI builds can resume with less repeated setup | Python · Claude API |
-| [**F1 Predictor League**](https://github.com/harsh779/f1-predictor-league) | Full-stack F1 prediction game with login, prediction lockouts, live timing integration, scoring logic, standings, admin tools, Discord notifications, and PWA support | Python · REST APIs |
-| [**F1 Live API**](https://github.com/harsh779/f1-live-api) | Real-time F1 timing API serving telemetry, race control, weather, pit strategy, team radio, results, standings, and historical session data via SignalR WebSocket — zero third-party data dependencies | C# · .NET · SignalR |
-| [**Resume Customiser**](https://github.com/harsh779/resume-customiser) | Local-first career tool for JD analysis, relevance scoring, and ATS-safe resume outputs — without inventing experience | Python |
+| Project | What it does | Stack | |
+|---|---|---|---|
+| [**ContextOS**](https://github.com/harsh779/contextos-claude-memory) | Windows-first local memory layer for Claude Code — captures project context, decisions, next actions, and restart packs so long-running AI builds can resume with less repeated setup | Python · Claude API | Open source |
+| [**F1 Predictor League**](https://github.com/harsh779/f1-predictor-league) | Full-stack F1 prediction game with login, prediction lockouts, live timing integration, scoring logic, standings, admin tools, Discord notifications, and PWA support | Python · REST APIs | Open source |
+| [**F1 Live API**](https://github.com/harsh779/f1-live-api) | Real-time F1 timing API serving telemetry, race control, weather, pit strategy, team radio, results, standings, and historical session data via SignalR WebSocket — zero third-party data dependencies | C# · .NET · SignalR | Open source |
+| [**Perception Intelligence**](https://app--youtube-intelligence--qc9w4mr468wb.code.run/#how) | Brand perception synthesis engine — YouTube creator reviews → structured B2B insight reports. Three tiers: Done-For-You, Self-Service SaaS, White-Label API | Python · NLP · Northflank | 🟢 Live product |
+| [**Resume Customiser**](https://github.com/harsh779/resume-customiser) | Local-first career tool for JD analysis, relevance scoring, and ATS-safe resume outputs — without inventing experience | Python | Open source |
 
 ---
 
