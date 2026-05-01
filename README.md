@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,40,10,0&height=160&section=header&text=Harsh%20Khandelwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analytics%20%26%20Systems%20Consultant%20%E2%80%94%20I%20build%20things%20that%20work%20in%20production&descAlignY=57&descSize=13&descColor=aaaaaa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=160&section=header&text=Harsh%20Khandelwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analytics%20%26%20Systems%20Consultant%20%E2%80%94%20I%20build%20things%20that%20work%20in%20production&descAlignY=57&descSize=13&descColor=aaaaaa" />
 </div>
 
 <br/>
@@ -25,31 +25,12 @@ Currently building **ContextOS** — a local memory layer for AI-assisted develo
 
 ## 🚀 Featured Builds
 
-#### AI workflow systems
-
-[![ContextOS](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=contextos-claude-memory&theme=github_dark)](https://github.com/harsh779/contextos-claude-memory)
-
-> Windows-first local memory layer for Claude Code. Captures project context, decisions, next actions, and restart packs so long-running AI-assisted builds can resume with less repeated setup.
-
----
-
-#### Live data and sports analytics
-
-[![F1 Predictor League](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=f1-predictor-league&theme=github_dark)](https://github.com/harsh779/f1-predictor-league)
-
-> Full-stack F1 prediction game with login, prediction lockouts, live timing integration, scoring logic, standings, admin tools, Discord notifications, and PWA support.
-
-[![F1 Live API](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=f1-live-api&theme=github_dark)](https://github.com/harsh779/f1-live-api)
-
-> Real-time F1 timing API serving telemetry, race control, weather, pit strategy, team radio, results, standings, and historical session data via SignalR WebSocket — zero third-party data dependencies.
-
----
-
-#### Career and productivity tools
-
-[![Resume Customiser](https://github-readme-stats.vercel.app/api/pin/?username=harsh779&repo=resume-customiser&theme=github_dark)](https://github.com/harsh779/resume-customiser)
-
-> Local-first career tool for JD analysis, relevance scoring, and ATS-safe resume outputs — without inventing experience.
+| Project | What it does | Stack |
+|---|---|---|
+| [**ContextOS**](https://github.com/harsh779/contextos-claude-memory) | Windows-first local memory layer for Claude Code — captures project context, decisions, next actions, and restart packs so long-running AI builds can resume with less repeated setup | Python · Claude API |
+| [**F1 Predictor League**](https://github.com/harsh779/f1-predictor-league) | Full-stack F1 prediction game with login, prediction lockouts, live timing integration, scoring logic, standings, admin tools, Discord notifications, and PWA support | Python · REST APIs |
+| [**F1 Live API**](https://github.com/harsh779/f1-live-api) | Real-time F1 timing API serving telemetry, race control, weather, pit strategy, team radio, results, standings, and historical session data via SignalR WebSocket — zero third-party data dependencies | C# · .NET · SignalR |
+| [**Resume Customiser**](https://github.com/harsh779/resume-customiser) | Local-first career tool for JD analysis, relevance scoring, and ATS-safe resume outputs — without inventing experience | Python |
 
 ---
 
@@ -76,5 +57,5 @@ Available for **consulting engagements** in analytics strategy, AI-enabled workf
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,40,10,0&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=100&section=footer" />
 </div>
