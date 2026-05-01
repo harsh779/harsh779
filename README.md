@@ -26,7 +26,7 @@ Currently building **ContextOS** — a local memory layer for AI-assisted develo
 
 | Project | What it does | Stack | |
 |---|---|---|---|
-| [**ContextOS**](https://github.com/harsh779/contextos-claude-memory) | Windows-first local memory layer for Claude Code — captures project context, decisions, next actions, and restart packs so long-running AI builds can resume with less repeated setup | Python · Claude API | Open source |
+| [**ContextOS**](https://github.com/harsh779/contextos-claude-memory) | Windows-first local memory layer for Claude Code — captures project context, decisions, next actions, and restart packs so long-running AI builds can resume with less repeated setup. v0.1.1 shipped. | PowerShell · Python · Claude Code | Open source |
 | [**F1 Predictor League**](https://github.com/harsh779/f1-predictor-league) | Full-stack F1 prediction game with login, prediction lockouts, live timing integration, scoring logic, standings, admin tools, Discord notifications, and PWA support | Python · REST APIs | Open source |
 | [**F1 Live API**](https://github.com/harsh779/f1-live-api) | Real-time F1 timing API serving telemetry, race control, weather, pit strategy, team radio, results, standings, and historical session data via SignalR WebSocket — zero third-party data dependencies | C# · .NET · SignalR | Open source |
 | [**Perception Intelligence**](https://app--youtube-intelligence--qc9w4mr468wb.code.run/#how) | Brand perception synthesis engine — YouTube creator reviews → structured B2B insight reports. Three tiers: Done-For-You, Self-Service SaaS, White-Label API | Python · NLP · Northflank | 🟢 Live product |
